@@ -1,11 +1,12 @@
 {
+  "2040": "https://aqua.eoapp.de/regions/2012/mapview",
+  "2012": "https://aqua.eoapp.de/regions/2040/mapview",
   "2033": "https://aqua.eoapp.de/regions/2034/mapview",
   "2034": "https://aqua.eoapp.de/regions/2033/mapview",
   "2025": "https://aqua.eoapp.de/regions/2015/mapview",
   "2014": "https://aqua.eoapp.de/regions/2015/mapview",
   "2015": "https://aqua.eoapp.de/regions/2014/mapview",
   "2009": "https://aqua.eoapp.de/regions/2012/mapview",
-  "2012": "https://aqua.eoapp.de/regions/2009/mapview",
   "1961": "https://aqua.eoapp.de/regions/1830/mapview",
   "1830": "https://aqua.eoapp.de/regions/1961/mapview",
   "1948": "https://aqua.eoapp.de/regions/1952/mapview",
