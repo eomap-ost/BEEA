@@ -1,4 +1,10 @@
 {
+  "2107": "https://aqua.eoapp.de/regions/2108/mapview",
+  "2108": "https://aqua.eoapp.de/regions/2107/mapview",
+  "2091": "https://aqua.eoapp.de/regions/1998/mapview",
+  "1998": "https://aqua.eoapp.de/regions/2091/mapview",
+  "2079": "https://aqua.eoapp.de/regions/2078/mapview",
+  "2078": "https://aqua.eoapp.de/regions/2079/mapview",
   "2040": "https://aqua.eoapp.de/regions/2012/mapview",
   "2012": "https://aqua.eoapp.de/regions/2040/mapview",
   "2033": "https://aqua.eoapp.de/regions/2034/mapview",
